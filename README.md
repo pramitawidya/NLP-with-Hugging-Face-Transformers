@@ -10,8 +10,8 @@
 
 <p>
   
-1. Zero-short classification
-<p Zeroshot classification adalah teknik dalam pemrosesan Natural Language Processing yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori tertentu tanpa pelatihan khusus pada kategori tersebut sebelumnya.</p>
+<b>1. Zero-short classification</b>
+<br>Zeroshot classification adalah teknik dalam pemrosesan Natural Language Processing yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori tertentu tanpa pelatihan khusus pada kategori tersebut sebelumnya.</br>
 
 2. Text-Generation
 Text generation adalah teknik dalam pemrosesan bahasa alami yang memungkinkan model menghasilkan teks secara otomatis berdasarkan prompt atau masukan tertentu.
