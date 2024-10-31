@@ -13,24 +13,24 @@
 <b>1. Zero-short classification</b>
 <br>Zeroshot classification adalah teknik dalam pemrosesan Natural Language Processing yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori tertentu tanpa pelatihan khusus pada kategori tersebut sebelumnya.</br>
 
-2. Text-Generation
-Text generation adalah teknik dalam pemrosesan bahasa alami yang memungkinkan model menghasilkan teks secara otomatis berdasarkan prompt atau masukan tertentu.
+<b>2. Text-Generation</b>
+<br> Text generation adalah teknik dalam pemrosesan bahasa alami yang memungkinkan model menghasilkan teks secara otomatis berdasarkan prompt atau masukan tertentu.</br>
 
-3. Fill-mask
-Teknik dalam pemrosesan bahasa alami yang memungkinkan model untuk mengisi kata yang hilang atau kosong dalam sebuah kalimat dengan kata yang paling cocok berdasarkan konteks.
+<b>3. Fill-mask</b>
+<br> Fill-mask adalah teknik dalam pemrosesan bahasa alami yang memungkinkan model untuk mengisi kata yang hilang atau kosong dalam sebuah kalimat dengan kata yang paling cocok berdasarkan konteks.</br>
 
-4. Ner
-Pemrosesan bahasa alami yang digunakan untuk mengidentifikasi dan mengkategorikan entitas bernama dalam teks, seperti nama orang, organisasi, lokasi, tanggal, angka, dan lainnya.
+<b>4. Ner</b>
+<br> Ner adalah Pemrosesan bahasa alami yang digunakan untuk mengidentifikasi dan mengkategorikan entitas bernama dalam teks, seperti nama orang, organisasi, lokasi, tanggal, angka, dan lainnya.</br>
 
-5. Question Answering
-Teknik dalam pemrosesan bahasa alami yang memungkinkan model untuk menjawab pertanyaan secara langsung berdasarkan konteks atau sumber teks yang diberikan. 
+<b>5. Question Answering</b>
+<br> Question Answering dalam pemrosesan bahasa alami yang memungkinkan model untuk menjawab pertanyaan secara langsung berdasarkan konteks atau sumber teks yang diberikan.</br>
 
-6. Sentiment Analysis
-Pemrosesan bahasa alami yang digunakan untuk mengidentifikasi dan mengklasifikasikan emosi atau perasaan dalam teks, seperti positif, negatif, atau netral.
+<b>6. Sentiment Analysis</b>
+<br>  Sentiment Analysis adalah Pemrosesan bahasa alami yang digunakan untuk mengidentifikasi dan mengklasifikasikan emosi atau perasaan dalam teks, seperti positif, negatif, atau netral.</br>
 
-7. Summarization
-Pemrosesan bahasa alami (NLP) yang digunakan untuk meringkas teks panjang menjadi versi yang lebih pendek, sambil tetap mempertahankan informasi utama
+<b>7. Summarization</b>
+<br> Summarization bisa diartikan sebagai bahasa alami (NLP) yang digunakan untuk meringkas teks panjang menjadi versi yang lebih pendek, sambil tetap mempertahankan informasi utama </br>
 
-8. Translation
-Kemampuan model untuk menerjemahkan antara pasangan bahasa yang belum pernah dilatih secara langsung
+<b>8. Translation</b>
+<br> Translation merupakan Kemampuan model untuk menerjemahkan antara pasangan bahasa yang belum pernah dilatih secara langsung.</br>
 </p>
