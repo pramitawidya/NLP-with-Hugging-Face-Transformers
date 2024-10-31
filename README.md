@@ -8,7 +8,7 @@
 
 </div>
 
-<h2 align="center">
+<p>
 1. Zero-short classification :
 Zero-shot classification adalah teknik dalam pemrosesan Natural Language Processing yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori tertentu tanpa pelatihan khusus pada kategori tersebut sebelumnya.
 
@@ -32,4 +32,4 @@ Pemrosesan bahasa alami (NLP) yang digunakan untuk meringkas teks panjang menjad
 
 8. Translation
 Kemampuan model untuk menerjemahkan antara pasangan bahasa yang belum pernah dilatih secara langsung
-</h2>
+<p>
