@@ -1,4 +1,4 @@
-<h1 align="center"> NLP With Hugging Face Transformers</h1>
+<b><h1 align="center"> NLP With Hugging Face Transformers</h1></b>
 <p align="center"> Berisi tentang pipeline dari Hugging Face Transformers untuk keperluan NLP (Natural Language Processing)</p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <p>
   
 1. Zero-short classification
-<p>Zeroshot classification adalah teknik dalam pemrosesan Natural Language Processing yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori tertentu tanpa pelatihan khusus pada kategori tersebut sebelumnya.</p>
+<p Zeroshot classification adalah teknik dalam pemrosesan Natural Language Processing yang memungkinkan model untuk mengklasifikasikan teks ke dalam kategori tertentu tanpa pelatihan khusus pada kategori tersebut sebelumnya.</p>
 
 2. Text-Generation
 Text generation adalah teknik dalam pemrosesan bahasa alami yang memungkinkan model menghasilkan teks secara otomatis berdasarkan prompt atau masukan tertentu.
